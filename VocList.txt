@@ -28,3 +28,5 @@ eg: "the magazine's six-page exclusive"
 synonyms= scoop/ expose/ revelation/ special / inside story
 
 thanks.
+
+done my changes..
